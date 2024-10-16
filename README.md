@@ -1,4 +1,9 @@
-# mpfem
+# Mixed-precision finite element kernels
+
+## Documentation
+
+This software generates the numerical results of the manuscript *Mixed-precision finite element kernels and assembly: Rounding error analysis and hardware acceleration* by M. Croci and G. N. Wells.
+See techreport in the [Zenodo upload](https://doi.org/10.5281/zenodo.13941629) for more information.
 
 ## Important
 
@@ -12,7 +17,7 @@ Before running the kernel scripts one first has to generate the FFCX kernels and
 [FEniCSx](https://fenicsproject.org/) and [gmsh](https://gmsh.info/) to be installed, but only have to be generated once.
 The easiest way is to use one of the fenicsproject docker containers.
 
-ALTERNATIVE: Directly download the dataset and software from the [Zenodo upload](https://doi.org/10.5281/zenodo.13941629) to
+**ALTERNATIVE:** Directly download the dataset and software from the [Zenodo upload](https://doi.org/10.5281/zenodo.13941629) to
 directly skip to Step 3. The original software is also part of the Zenodo upload and can be used instead of the GitHub version.
 However, the Zenodo version won't be kept up to date.
 
