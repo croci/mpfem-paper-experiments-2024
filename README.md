@@ -3,7 +3,7 @@
 ## Documentation
 
 This software generates the numerical results of the manuscript *Mixed-precision finite element kernels and assembly: Rounding error analysis and hardware acceleration* by M. Croci and G. N. Wells.
-See techreport in the [Zenodo upload](https://doi.org/10.5281/zenodo.13941629) for more information.
+See [ArXiv preprint](http://arxiv.org/abs/2410.12614) and techreport in the [Zenodo upload](https://doi.org/10.5281/zenodo.13941629) for more information.
 
 ## Important
 
